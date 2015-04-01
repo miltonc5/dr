@@ -1,0 +1,41 @@
+* {margin:0;padding:0;}
+b0dy{font-family:Century Gothic; Arial;font-size:14px;line-height:22px;color:#666;background:url(images/bg.png) repeat-y}
+h1, h2, h3, h4, h5, h6{color:#000;font-weight:normal;margin-bottom:15px;}
+a {text-decoration:none;color:#000;}
+a {text-decoration:none;}
+.fix {overflow:hidden;}
+.main_area{width:940px;background:url(images/wrapper.png) repeat-x scroll 0 0 #c5c5c5;margin:15px auto;display:block;border-radius:10px;padding:10px 10px 0;}
+.header{height:110px;}
+.logo{float:left;margin-right:15px;}
+
+.site_title{float:left;margin-right:15px;}
+.site_title h1{font-size:60px;line-height:50px;}
+.site_title h2{font-size:15px;}
+.header_right{float:right;}
+.social_bookmarks{margin-left:74px;margin-top:20px;}
+.social_bookmarks img{float:left;margin-left:5px;}
+.call_us p{font-size:18px;}
+.mainmenu{background:url(images/mainmenu.png) repeat-x scroll 0 0 #000;border-radius:5px;margin-bottom:10px;}
+.mainmenu ul{margin:0;padding:0;list-style:none;}
+.mainmenu ul li{float:left;background:url(images/separator.png) no-repeat scroll right center;}
+.mainmenu ul li:last-child{background:none}
+.mainmenu ul li a{display:block;color:#fff;padding:10 25px;}
+.mainmenu ul li a:hover{}
+.slider{margin-bottom:10px;}
+.slider img{width:100%;}
+.call_to_action{background:url(images/dr.png) repeat-x;border-radius:10px;margin-bottom:10px;padding:0px;}
+.call_to_action h1 {float:left;margin-bottom:0;margin-right:10px;font-size:36px;padding:20px;}
+.call_to_action p {float:left;line-height:18px;margin-left:10px;font-size:12px;padding-top:15px;width:295px;}
+.promotions{width:945px;}
+.single_promotions{width:231px;height:127px;float:left;margin-right:5px;border-radius:15px;position:relative;background:#fff;}
+.single_promotions h2{position:absolute;bottom:0px;color:#fff;font-size:18px;text-align:center;width:230px;}
+.promo_one{background:url(images/ftr1.png) no-repeat}
+.promo_two{background:url(images/ftr2.png) no-repeat}
+.promo_three{background:url(images/ftr3.png) no-repeat}
+.promo_four{background:url(images/ftr4.png) no-repeat}
+.footer{background:#fff;margin-left:-10px;padding:20px;width:940px;font-size:12px;color:#000;}
+.footer ul {margin:0;padding:0;list-style:none;overflow:hidden;text-align:center;}
+.footer ul li{display:inline;;}
+.footer ul li a{padding:0px 15px;color:#000;}
+.footer ul li a:hover{}
+.footer p{text-align:center;}
